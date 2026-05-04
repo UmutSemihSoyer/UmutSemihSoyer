@@ -1,16 +1,26 @@
-## Hi there 👋
+# Umut Semih Soyer
 
-<!--
-**UmutSemihSoyer/UmutSemihSoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Telemetry & Performance Data Engineer**  
+Python · Motorsport Analytics · Real-time Data Pipelines
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+I develop telemetry analysis systems for motorsport — from binary data parsing to real-time race engineering dashboards.
+
+- 🏎️ **iRacing Telemetry Analytics** — Full analysis platform with lap classification, corner detection, AI-assisted driver feedback, and automated PDF reports
+- 🔴 **F1 2022 Pit Wall Suite** — Real-time UDP telemetry pipeline with live delta monitoring, ERS mapping, AI driver profiling, and voice alerts
+- 📊 Currently the sole data engineer at **Team Curve Hunters** (iRacing Endurance Series) — setup recommendations produced a **documented 0.7s lap time improvement**
+
+---
+
+## Tech Stack
+
+Python · Pandas · Plotly · Dash · SQLite · Electron · NumPy · SciPy
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/umutsemihsoyer/)
